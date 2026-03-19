@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="forgottensmp26"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Forgotten SMP"
+description='''
+custom heroes
+'''
+
+[[dependencies.forgottensmp26]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.4.2,)"
+ordering = "NONE"
+side = "BOTH"

@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "Gericio"
+    ],
+    "environment": "*",
+    "id": "forgottensmp26",
+    "version": "1.0.0",
+    "name": "Forgotten SMP",
+    "description": "custom heroes",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

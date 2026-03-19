@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "forgottensmp26",
+        "pack_format": 15,
+        "description": "custom heroes",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}
